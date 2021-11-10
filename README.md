@@ -1,4 +1,4 @@
-<h3 align="center"> Tech Recruiter @ Amazon LATAM Region</h3>
+<h3 align="center"> Tech Recruiter </h3>
 
 <p align="center">
   <a
