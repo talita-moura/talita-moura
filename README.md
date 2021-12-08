@@ -2,7 +2,7 @@
 
 <p align="center">
   <a
-    href="mailto:talmoura@amazon.com" 
+    href="mailto:talita.nardo@dreamdev.io" 
     alt="Outlook"
     target="blank"
   >
